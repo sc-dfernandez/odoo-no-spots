@@ -1,0 +1,1 @@
+# odoo-no-spots
